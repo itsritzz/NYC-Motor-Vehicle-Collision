@@ -1,7 +1,7 @@
 # NYC Motor Vehicle Collision Project
 
 ## Overview
-Dive into the heart of New York City's traffic dynamics. This project explores the critical issue of road safety, the impact of vehicle collisions, and measures to enhance safety for all.
+Dive into the heart of New York City's traffic dynamics. This project explores the critical issue of road safety, the impact of vehicle collisions, and measures to enhance safety for all. The Dataset has been taken from [Data.gov](https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes).
 
 ## Key Features
 - **Impact Analysis (2017-2023):** Insightful trends from urban expansion effects to pandemic-related decreases.
@@ -13,6 +13,6 @@ Dive into the heart of New York City's traffic dynamics. This project explores t
 Join us in navigating NYC's traffic tales towards a safer city for all.
 ## Explore More
 
-For a detailed exploration of the NYC Motor Vehicle Collision Project, including in-depth analyses, visualizations, and findings, visit our [project website](https://sites.google.com/view/ie6600enr/project-1?authuser=0).
+For a detailed exploration of the NYC Motor Vehicle Collision Project, including in-depth analyses, visualizations, and findings, visit our [Project website](https://sites.google.com/view/ie6600enr/project-1?authuser=0).
 
 This website offers a comprehensive overview of vehicle collision impacts in NYC from 2017 to 2023, contributing factors, borough-wise collision distribution, and much more, illustrated with graphs and charts for better understanding.
